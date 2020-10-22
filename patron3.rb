@@ -10,7 +10,6 @@ def patron3(n)
         end
         puts " "
     end
-    
     n = ARGV[0].to_i
     patron3(n)
     
